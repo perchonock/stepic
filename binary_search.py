@@ -2,7 +2,7 @@ __author__ = 'YKolotolova'
 
 import sys
 #input = sys.stdin.read()
-input = "1 5 8 12 13\n8 1 23 1 11"
+input = "1 5 8 12 13 32 56 76\n8 1 23 1 11 33"
 input = input.splitlines()
 array = [int(n) for n in input[0].split()]
 searched_numbers = [int(n) for n in input[1].split()]

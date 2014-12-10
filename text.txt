@@ -1,0 +1,126 @@
+<!DOCTYPE html>
+
+<!--[if IE 8]><html class="no-js lt-ie9" lang="en"> <![endif]-->
+<!--[if gt IE 8]><!-->
+<html class="no-js" lang="en"> <!--<![endif]-->
+<head>
+  <meta charset="utf-8"/>
+  <meta name="viewport" content="width=device-width"/>
+  <meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1">
+  
+  <title>Stepic &gt; 404</title>
+  <link rel="shortcut icon" href="/static/classic/ico/favicon.png?v=1395930758"/>
+  <style type="text/css">
+    body, html {
+      height: 100%;
+      color: #4d4d4d;
+      font-family: Arial, sans-serif;
+      font-weight: 400;
+    }
+
+    .toggle-sidemenu {
+      position: fixed;
+      display: block;
+      width: 42px;
+      height: 42px;
+      top: 20px;
+      left: 20px;
+      cursor: pointer;
+      background-color: #666;
+      z-index: 100;
+      background-image: url(/static/frontend/logo_white.svg);
+    }
+
+    .content-error {
+      color: #231f20;
+      width: 474px;
+      margin: 0 auto;
+      padding: 100px 0;
+    }
+
+    .epic-error-img {
+      text-align: center;
+    }
+
+    .epic-error-code {
+      font-size: 60px;
+      font-weight: bold;
+      margin: 38px 0 7px;
+    }
+
+    .epic-error-text {
+      font-size: 38px;
+      font-weight: bold;
+    }
+
+    .epic-link {
+      font-size: 18px;
+      line-height: 1.5;
+      margin-top: 20px;
+    }
+
+    .epic-link a {
+      color: #84ba7b;
+      text-decoration: none;
+    }
+
+    .epic-search {
+      border-bottom: 1px solid;
+      padding-bottom: 15px;
+      padding-top: 30px;
+    }
+
+    .epic-search img {
+      vertical-align: middle;
+    }
+
+    .epic-search input {
+      vertical-align: middle;
+      border: none;
+      background: transparent;
+      font-size: 22px;
+      width: 435px;
+      margin-left: 5px;
+      color: #231f20;
+    }
+  </style>
+  
+  <style>
+    .epic-error-code, .epic-search {
+      color: #63B0F5;
+    }
+  </style>
+
+</head>
+<body>
+
+  <a href="/">
+    <div class="toggle-sidemenu" title="Stepic Home"></div>
+  </a>
+  <div class="content-error">
+    <div class="epic-error-img">
+      <img src="/static/frontend/error404.svg">
+    </div>
+    <div class="epic-error-code">
+      404
+    </div>
+    <div class="epic-error-text">
+      Epic page not found
+    </div>
+    <div class="epic-link">
+      
+        Check <a href="/">stepic.org</a>.<br/>
+        Also, you can try our Search or <a href="/lesson/Feedback-61/">contact us</a>.
+      
+    </div>
+    
+      <form class="epic-search" action="/search/" method="get">
+        <img src="/static/frontend/error_search404.svg"><input type="text" name="q" autofocus>
+      </form>
+    
+  </div>
+
+
+
+</body>
+</html>

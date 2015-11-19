@@ -5,6 +5,7 @@ def fib_num(n):
         current_num = fibonacci_nums[i-1] + fibonacci_nums[i-2]
         fibonacci_nums.append(current_num)
         i += 1
+    print(" ".join(map(str,fibonacci_nums)))
     return fibonacci_nums[n]
 
 def last_figure(n):
@@ -27,11 +28,10 @@ def fib_mod(n,m):
             k=i
         else:
             return mods[-1]
-n=2345
-m=8
-print(fib_mod(n,m))
+# n=2345
+# m=8
+# print(fib_mod(n,m))
+# print(fib_num(n)%m)
 
-print(fib_num(n)%m)
-
-
+fib_num(20)
 

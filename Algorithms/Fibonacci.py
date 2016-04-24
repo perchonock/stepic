@@ -33,5 +33,5 @@ def fib_mod(n,m):
 # print(fib_mod(n,m))
 # print(fib_num(n)%m)
 
-fib_num(20)
+print(fib_num(31))
 

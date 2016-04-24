@@ -1,0 +1,91 @@
+10
+A : B C D G H
+B : C E G H K L
+C : E D H K L
+E : D F K L
+D : G H
+F : K
+G : F
+H : L
+K : H L
+L
+38
+K D
+D A
+G D
+H A
+E E
+H G
+E L
+B D
+D L
+D G
+D E
+A F
+A C
+K A
+A H
+K D
+H B
+K B
+D L
+G G
+A H
+K L
+G E
+B A
+C K
+K L
+C L
+G C
+D D
+C G
+E A
+F K
+B G
+H L
+L F
+H G
+D A
+H L
+
+
+
+Yes
+Yes
+Yes
+Yes
+Yes
+Yes
+No
+No
+No
+No
+Yes
+No
+No
+Yes
+No
+Yes
+Yes
+Yes
+No
+Yes
+No
+No
+Yes
+Yes
+No
+No
+No
+Yes
+Yes
+No
+Yes
+No
+No
+No
+Yes
+Yes
+Yes
+No

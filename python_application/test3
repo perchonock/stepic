@@ -1,0 +1,29 @@
+2
+a : c b
+b : d e
+1
+e a
+
+Yes
+
+3
+a : b
+b : c
+c : a
+1
+h a
+
+No
+
+4
+a : b
+b : c
+c : d
+d : a
+1
+x a
+
+No
+
+1
+a

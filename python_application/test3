@@ -25,5 +25,53 @@ x a
 
 No
 
+
+13
+L : G K
+G : Q H I
+K : I
+Q : A B C D
+H : C D
+I : E F
+A
+B
+C
+D
+E
+F
+Y
+2
+A L
+F L
+
+Yes
+Yes
+
+
+6
+A
+B : A
+C : B
+G
+D : G
+E : C D
+3
+B E
+A E
+G E
+
+Yes
+Yes
+Yes
+
+6
+A
+B : A
+C : B
+G
+D : G
+E : C D
 1
-a
+G E
+
+Yes

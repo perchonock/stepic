@@ -1,25 +1,42 @@
-__author__ = 'yanina'
+classes = {}
+nodes = []
 
-class A:
-   def foo(self):
-      print("A")
+n = int(input())
+for i in range(n):
+    str = input()
+    nodes.extend(str.split())
+    if ":" in str:
+        lst = str.split(':')
+        classes[lst[0].strip()] = lst[1].split()
 
-class B(A):
-   pass
+    else:
+        classes[str] = []
 
-class C(A):
-   def foo(self):
-      print("C")
 
-class D:
-   def foo(self):
-      print("D")
+def isparent(parent,child):
+    if child not in nodes or parent not in nodes:
+        print('No')
+        return
+    if child == parent:
+        print('Yes')
 
-class E(B, C, D):
-   pass
+    elif child in classes:
+        if parent in classes[child]:
+            print("Yes")
 
-print(E.mro())
-E().foo()
+        else:
+            for cl in classes[child]:
+                if cl in classes:
+                    isparent(parent,cl)
+                    return
+            print('No')
+    else:
+        print("No")
+
+k = int(input())
+for i in range(k):
+    lst = input().split()
+    isparent(lst[0],lst[1])
 
 
 

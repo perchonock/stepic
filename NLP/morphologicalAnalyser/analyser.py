@@ -28,11 +28,12 @@ class Analyser:
                 lemma = lemma_tag[0]
                 tag = lemma_tag[1]
             else:
-                if word in lemmas_freq_POS:
-                    tag = lemmas_freq_POS[word]
-                else:
-                    # если слово нигде не найдено, в лемму записываю его форму, а тег = сущ.
-                    tag = 'A'
+                #закомментированный блок нужен для разрешения омонимии при использовании одикт
+                #if word in lemmas_freq_POS:
+                #    tag = lemmas_freq_POS[word]
+                #else:
+                # если слово нигде не найдено, в лемму записываю его форму, а тег = сущ.
+                tag = 'A'
                 lemma = word
             result += word_trueCase + "{" + lemma + "=" + tag + "} "
 

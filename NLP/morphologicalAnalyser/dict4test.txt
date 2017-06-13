@@ -1,0 +1,44 @@
+1
+ЁЖ	NOUN,anim,masc sing,nomn
+ЕЖА	NOUN,anim,masc sing,gent
+ЕЖУ	NOUN,anim,masc sing,datv
+ЕЖА	NOUN,anim,masc sing,accs
+ЕЖОМ	NOUN,anim,masc sing,ablt
+ЕЖЕ	NOUN,anim,masc sing,loct
+ЕЖИ	NOUN,anim,masc plur,nomn
+ЕЖЕЙ	NOUN,anim,masc plur,gent
+ЕЖАМ	NOUN,anim,masc plur,datv
+ЕЖЕЙ	NOUN,anim,masc plur,accs
+ЕЖАМИ	NOUN,anim,masc plur,ablt
+ЕЖАХ	NOUN,anim,masc plur,loct
+
+2
+ЁЖ	NOUN,inan,masc sing,nomn
+ЕЖА	NOUN,inan,masc sing,gent
+ЕЖУ	NOUN,inan,masc sing,datv
+ЁЖ	NOUN,inan,masc sing,accs
+ЕЖОМ	NOUN,inan,masc sing,ablt
+ЕЖЕ	NOUN,inan,masc sing,loct
+ЕЖИ	NOUN,inan,masc plur,nomn
+ЕЖЕЙ	NOUN,inan,masc plur,gent
+ЕЖАМ	NOUN,inan,masc plur,datv
+ЕЖИ	NOUN,inan,masc plur,accs
+ЕЖАМИ	NOUN,inan,masc plur,ablt
+ЕЖАХ	NOUN,inan,masc plur,loct
+
+3
+ЁЖИК	NOUN,anim,masc sing,nomn
+ЁЖИКА	NOUN,anim,masc sing,gent
+ЁЖИКУ	NOUN,anim,masc sing,datv
+ЁЖИКА	NOUN,anim,masc sing,accs
+ЁЖИКОМ	NOUN,anim,masc sing,ablt
+ЁЖИКЕ	NOUN,anim,masc sing,loct
+ЁЖИКИ	NOUN,anim,masc plur,nomn
+ЁЖИКОВ	NOUN,anim,masc plur,gent
+ЁЖИКАМ	NOUN,anim,masc plur,datv
+ЁЖИКОВ	NOUN,anim,masc plur,accs
+ЁЖИКАМИ	NOUN,anim,masc plur,ablt
+ЁЖИКАХ	NOUN,anim,masc plur,loct
+
+4
+ЁЖИКОМ	ADVB 

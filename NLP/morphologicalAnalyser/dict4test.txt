@@ -42,3 +42,75 @@
 
 4
 ЁЖИКОМ	ADVB 
+
+117567
+ИДТИ	INFN,impf,intr 
+
+117568
+ИДУЩИЙ	PRTF,impf,intr,pres,actv masc,sing,nomn
+ИДУЩЕГО	PRTF,impf,intr,pres,actv masc,sing,gent
+ИДУЩЕМУ	PRTF,impf,intr,pres,actv masc,sing,datv
+ИДУЩЕГО	PRTF,impf,intr,pres,actv anim,masc,sing,accs
+ИДУЩИЙ	PRTF,impf,intr,pres,actv inan,masc,sing,accs
+ИДУЩИМ	PRTF,impf,intr,pres,actv masc,sing,ablt
+ИДУЩЕМ	PRTF,impf,intr,pres,actv masc,sing,loct
+ИДУЩАЯ	PRTF,impf,intr,pres,actv femn,sing,nomn
+ИДУЩЕЙ	PRTF,impf,intr,pres,actv femn,sing,gent
+ИДУЩЕЙ	PRTF,impf,intr,pres,actv femn,sing,datv
+ИДУЩУЮ	PRTF,impf,intr,pres,actv femn,sing,accs
+ИДУЩЕЙ	PRTF,impf,intr,pres,actv femn,sing,ablt
+ИДУЩЕЮ	PRTF,impf,intr,pres,actv femn,sing,ablt,V-ey
+ИДУЩЕЙ	PRTF,impf,intr,pres,actv femn,sing,loct
+ИДУЩЕЕ	PRTF,impf,intr,pres,actv neut,sing,nomn
+ИДУЩЕГО	PRTF,impf,intr,pres,actv neut,sing,gent
+ИДУЩЕМУ	PRTF,impf,intr,pres,actv neut,sing,datv
+ИДУЩЕЕ	PRTF,impf,intr,pres,actv neut,sing,accs
+ИДУЩИМ	PRTF,impf,intr,pres,actv neut,sing,ablt
+ИДУЩЕМ	PRTF,impf,intr,pres,actv neut,sing,loct
+ИДУЩИЕ	PRTF,impf,intr,pres,actv plur,nomn
+ИДУЩИХ	PRTF,impf,intr,pres,actv plur,gent
+ИДУЩИМ	PRTF,impf,intr,pres,actv plur,datv
+ИДУЩИХ	PRTF,impf,intr,pres,actv anim,plur,accs
+ИДУЩИЕ	PRTF,impf,intr,pres,actv inan,plur,accs
+ИДУЩИМИ	PRTF,impf,intr,pres,actv plur,ablt
+ИДУЩИХ	PRTF,impf,intr,pres,actv plur,loct
+
+117569
+ШЕДШИЙ	PRTF,impf,intr,past,actv masc,sing,nomn
+ШЕДШЕГО	PRTF,impf,intr,past,actv masc,sing,gent
+ШЕДШЕМУ	PRTF,impf,intr,past,actv masc,sing,datv
+ШЕДШЕГО	PRTF,impf,intr,past,actv anim,masc,sing,accs
+ШЕДШИЙ	PRTF,impf,intr,past,actv inan,masc,sing,accs
+ШЕДШИМ	PRTF,impf,intr,past,actv masc,sing,ablt
+ШЕДШЕМ	PRTF,impf,intr,past,actv masc,sing,loct
+ШЕДШАЯ	PRTF,impf,intr,past,actv femn,sing,nomn
+ШЕДШЕЙ	PRTF,impf,intr,past,actv femn,sing,gent
+ШЕДШЕЙ	PRTF,impf,intr,past,actv femn,sing,datv
+ШЕДШУЮ	PRTF,impf,intr,past,actv femn,sing,accs
+ШЕДШЕЙ	PRTF,impf,intr,past,actv femn,sing,ablt
+ШЕДШЕЮ	PRTF,impf,intr,past,actv femn,sing,ablt,V-ey
+ШЕДШЕЙ	PRTF,impf,intr,past,actv femn,sing,loct
+ШЕДШЕЕ	PRTF,impf,intr,past,actv neut,sing,nomn
+ШЕДШЕГО	PRTF,impf,intr,past,actv neut,sing,gent
+ШЕДШЕМУ	PRTF,impf,intr,past,actv neut,sing,datv
+ШЕДШЕЕ	PRTF,impf,intr,past,actv neut,sing,accs
+ШЕДШИМ	PRTF,impf,intr,past,actv neut,sing,ablt
+ШЕДШЕМ	PRTF,impf,intr,past,actv neut,sing,loct
+ШЕДШИЕ	PRTF,impf,intr,past,actv plur,nomn
+ШЕДШИХ	PRTF,impf,intr,past,actv plur,gent
+ШЕДШИМ	PRTF,impf,intr,past,actv plur,datv
+ШЕДШИХ	PRTF,impf,intr,past,actv anim,plur,accs
+ШЕДШИЕ	PRTF,impf,intr,past,actv inan,plur,accs
+ШЕДШИМИ	PRTF,impf,intr,past,actv plur,ablt
+ШЕДШИХ	PRTF,impf,intr,past,actv plur,loct
+
+117570
+ИДЯ	GRND,impf,intr pres
+ШЕДШИ	GRND,impf,intr past,V-sh
+
+117571
+ШЛОСЬ	VERB,impf,intr,Impe neut,sing,past,indc
+ИДЁТСЯ	VERB,impf,intr,Impe sing,pres,indc
+
+117572
+ИДТИСЬ	INFN,impf,intr,Impe 

@@ -1,5 +1,5 @@
 1
-ЁЖ	NOUN,anim,masc sing,nomn
+ЕЖ	NOUN,anim,masc sing,nomn
 ЕЖА	NOUN,anim,masc sing,gent
 ЕЖУ	NOUN,anim,masc sing,datv
 ЕЖА	NOUN,anim,masc sing,accs
@@ -13,10 +13,10 @@
 ЕЖАХ	NOUN,anim,masc plur,loct
 
 2
-ЁЖ	NOUN,inan,masc sing,nomn
+ЕЖ	NOUN,inan,masc sing,nomn
 ЕЖА	NOUN,inan,masc sing,gent
 ЕЖУ	NOUN,inan,masc sing,datv
-ЁЖ	NOUN,inan,masc sing,accs
+ЕЖ	NOUN,inan,masc sing,accs
 ЕЖОМ	NOUN,inan,masc sing,ablt
 ЕЖЕ	NOUN,inan,masc sing,loct
 ЕЖИ	NOUN,inan,masc plur,nomn
@@ -27,21 +27,21 @@
 ЕЖАХ	NOUN,inan,masc plur,loct
 
 3
-ЁЖИК	NOUN,anim,masc sing,nomn
-ЁЖИКА	NOUN,anim,masc sing,gent
-ЁЖИКУ	NOUN,anim,masc sing,datv
-ЁЖИКА	NOUN,anim,masc sing,accs
-ЁЖИКОМ	NOUN,anim,masc sing,ablt
-ЁЖИКЕ	NOUN,anim,masc sing,loct
-ЁЖИКИ	NOUN,anim,masc plur,nomn
-ЁЖИКОВ	NOUN,anim,masc plur,gent
-ЁЖИКАМ	NOUN,anim,masc plur,datv
-ЁЖИКОВ	NOUN,anim,masc plur,accs
-ЁЖИКАМИ	NOUN,anim,masc plur,ablt
-ЁЖИКАХ	NOUN,anim,masc plur,loct
+ЕЖИК	NOUN,anim,masc sing,nomn
+ЕЖИКА	NOUN,anim,masc sing,gent
+ЕЖИКУ	NOUN,anim,masc sing,datv
+ЕЖИКА	NOUN,anim,masc sing,accs
+ЕЖИКОМ	NOUN,anim,masc sing,ablt
+ЕЖИКЕ	NOUN,anim,masc sing,loct
+ЕЖИКИ	NOUN,anim,masc plur,nomn
+ЕЖИКОВ	NOUN,anim,masc plur,gent
+ЕЖИКАМ	NOUN,anim,masc plur,datv
+ЕЖИКОВ	NOUN,anim,masc plur,accs
+ЕЖИКАМИ	NOUN,anim,masc plur,ablt
+ЕЖИКАХ	NOUN,anim,masc plur,loct
 
 4
-ЁЖИКОМ	ADVB 
+ЕЖИКОМ	ADVB 
 
 117567
 ИДТИ	INFN,impf,intr 
@@ -110,7 +110,7 @@
 
 117571
 ШЛОСЬ	VERB,impf,intr,Impe neut,sing,past,indc
-ИДЁТСЯ	VERB,impf,intr,Impe sing,pres,indc
+ИДЕТСЯ	VERB,impf,intr,Impe sing,pres,indc
 
 117572
 ИДТИСЬ	INFN,impf,intr,Impe 
